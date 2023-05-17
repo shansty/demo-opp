@@ -1,5 +1,5 @@
 public class Circle {
     double square;
-    Circumference circumference = new Circumference();
+    Circumference circumference;
 
 }
