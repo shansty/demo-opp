@@ -1,4 +1,5 @@
-public class Circle extends Circumference {
+public class Circle {
     double square;
+    Circumference circumference = new Circumference();
 
 }
